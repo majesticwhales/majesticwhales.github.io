@@ -6,6 +6,13 @@ body {
 
 .top {
     background-image: url("../images/chtopbar.png");
+    padding-top: 9em;
+    padding-bottom: 5em;
+}
+
+.toptext {
     text-align: center;
-    padding: 9em;
+    background-color: black;
+    color: white;
+    padding: 2em;
 }
