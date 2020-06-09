@@ -2,6 +2,7 @@
 
 body {
     font-family: 'varela-round', sans-serif;
+    background-color: rgb(0, 20, 50);
 }
 
 .top {
@@ -10,9 +11,13 @@ body {
     padding-bottom: 5em;
 }
 
-.toptext {
-    text-align: center;
-    background-color: black;
-    color: white;
+.topbox {
+    background-color: rgba(0,0,0,0.75);
     padding: 2em;
+    margin-left: 21.5em;
+    margin-right: 22em;
+    opacity: 50%;
+    border-radius: 1em;
+    text-align: center;
+    color: rgba(37, 235, 241, 1);
 }
