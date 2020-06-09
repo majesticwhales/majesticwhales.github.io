@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+body {
+    font-family: 'varela-round', sans-serif;
+}
+
+.top {
+    background-image: url("../images/chtopbar.png");
+    text-align: center;
+    padding: 9em;
+}
