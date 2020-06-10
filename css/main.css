@@ -12,12 +12,14 @@ body {
 }
 
 .topbox {
-    background-color: rgba(0,0,0,0.75);
+    background-color: rgba(0,0,0,0.5);
     padding: 2em;
     margin-left: 21.5em;
     margin-right: 22em;
-    opacity: 50%;
     border-radius: 1em;
+}
+
+.toptext {
     text-align: center;
-    color: rgba(37, 235, 241, 1);
+    color: rgb(37, 235, 241);
 }
