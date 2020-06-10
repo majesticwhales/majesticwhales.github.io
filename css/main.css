@@ -6,7 +6,8 @@ body {
 }
 
 .top {
-    background-image: url("../images/chtopbar.png");
+    background: url("../images/chtopbar.png");
+    background-size: cover;
     padding-top: 9em;
     padding-bottom: 5em;
 }
