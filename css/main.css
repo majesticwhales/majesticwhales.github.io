@@ -6,6 +6,7 @@ body {
     font-family: 'varela-round', sans-serif;
     background: url("../images/whaleback.gif");
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .headbar {
