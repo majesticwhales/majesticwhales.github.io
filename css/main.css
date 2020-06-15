@@ -4,7 +4,8 @@ body {
     margin: 0;
     margin-top: 0;
     font-family: 'varela-round', sans-serif;
-    background-color: rgb(50, 100, 200);
+    background: url("../images/whaleback.gif");
+    background-repeat: no-repeat;
 }
 
 .headbar {
